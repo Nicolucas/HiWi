@@ -3,7 +3,7 @@
 ## Description 
 Pedagogical: 
 
-### start using Specfam (wae propagation cluster) Specfam Globe -> Bernard Schubert // use Supermooge Req Heiner
+### start using Specfem3DGlobe (wave propagation code for the cluster) Specfem3D Globe -> Bernard Schubert // use Supermuc Req Heiner
 
 ### Introduction for Dyamic Rupture large scale (using teleseismic data?)
 
@@ -21,7 +21,7 @@ We can think of getting the slip rate
 We might use low frequency data so we can use 
 
 
-### Introduction for Kenneth Duru Method to solve pseudospectra method?
+### Introduction for Kenneth Duru Method to solve pseudospectral method?
 -
 -
 -
